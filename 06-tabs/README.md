@@ -1,3 +1,3 @@
-#### IN ACTION
+## Tabs
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+[Demo](https://react-projects-6-tabs.netlify.app/)
